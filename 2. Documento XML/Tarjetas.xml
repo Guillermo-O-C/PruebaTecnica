@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TarjetaCredito>
+  <SistemaEmisor>
+    <Nombre>Nombre del Sistema Emisor</Nombre>
+    <Localizacion>Pais, Ciudad</Localizacion>
+  </SistemaEmisor>
+
+  <DatosTarjeta>
+    <NumeroTarjeta>1234567890123456</NumeroTarjeta>
+    <IDCliente>1234567890</IDCliente>
+    <Titular>Nombre del Titular</Titular>
+    <FechaVencimiento>MM/AAAA</FechaVencimiento>
+    <CVV>123</CVV>
+    <TipoTarjeta>Visa/Mastercard/Otro</TipoTarjeta>
+  </DatosTarjeta>
+</TarjetaCredito>
